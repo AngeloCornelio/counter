@@ -21,6 +21,7 @@ h1 {
 #num {
   text-align: center;
   font-size: 4em;
+  transition: 0.25s;
 }
 
 #btns {
@@ -33,4 +34,12 @@ button {
   font-size: 2em;
   text-transform: uppercase;
   letter-spacing: 0.25em;
+}
+
+.pos {
+  color: green;
+}
+
+.neg {
+  color: red;
 }
